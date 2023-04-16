@@ -6,9 +6,6 @@
 
 Установите Zabbix Server с веб-интерфейсом.
 
-
-
-
 ```
 su
 apt install postgresql
@@ -24,9 +21,10 @@ systemctl restart zabbix-server zabbix-agent apache2
 systemctl enable zabbix-server zabbix-agent apache2
 systemctl status zabbix-server zabbix-agent apache2
 ```
+Далее проброшен порт 80 на виртуалку.
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Screenshot_1](https://github.com/lebedun/9-01-hw/blob/main/img/Screenshot_1.jpg)
 
 
 ---
