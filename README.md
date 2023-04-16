@@ -23,8 +23,7 @@ systemctl status zabbix-server zabbix-agent apache2
 ```
 Далее проброшен порт 80 на виртуалку.
 
-`При необходимости прикрепитe сюда скриншоты
-![Screenshot_1](https://github.com/lebedun/9-01-hw/blob/main/img/Screenshot_1.jpg)
+![Screenshot_1](https://github.com/lebedun/9-02-hw/blob/main/img/Screenshot_1.jpg)
 
 
 ---
